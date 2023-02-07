@@ -1,6 +1,6 @@
 <h1>Hi</h1>
 I’m @EddyMexico.
-I'm currently studying on what you could call college at a university in Mexico and
+I'm currently studying on what you could call college at an university in Mexico and
 currently I'm working my way onto web, android and desktop development. 
 
 <!---
